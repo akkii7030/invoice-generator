@@ -995,7 +995,7 @@ export default function Home() {
 
           <div className="mt-12 pt-8 border-t border-white/10 flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm mb-4 md:mb-0">
-              &copy; {new Date().getFullYear()} InvoiceAI. All rights reserved.
+              &copy; {new Date().getFullYear()} InvoiceAI. All rights Akhilesh reserved.
             </p>
             <button
               onClick={scrollToTop}
